@@ -320,9 +320,9 @@ section(RESOURCE_1 /*{{threads}}*/,1000000 /*1000000*/,1000000 /*1000000*/,0,fun
          section_end()!
 
          section_start("", 491519675)!
-         /*Dat:eyJzIjoiY2xpY2tlbGVtZW50IiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJDaGVjayIsInR5cGUiOiJjaGVjayIsImRhdGEiOmZhbHNlLCJpc19kZWYiOnRydWV9XSwicCI6eyJpc19pbWFnZSI6ZmFsc2UsImNzcyI6IiA+Q1NTPiAjcmFkaXgtXFwzQSByYVxcM0EgID4gOm50aC1jaGlsZCgyKSA+IDpudGgtY2hpbGQoMSkgPiA6bnRoLWNoaWxkKDEpID4gOm50aC1jaGlsZCgxKSA+IDpudGgtY2hpbGQoMTEpIiwidmVyc2lvbiI6IjEuMCIsImNzczEiOiIgPkNTUz4gI3JhZGl4LVxcM0EgcmFcXDNBICA+IDpudGgtY2hpbGQoMikgPiA6bnRoLWNoaWxkKDEpID4gOm50aC1jaGlsZCgxKSA+IDpudGgtY2hpbGQoMSkgPiA6bnRoLWNoaWxkKDExKSIsImNzczIiOiIgPkNTUz4gOm50aC1jaGlsZCgyMCkgPiA6bnRoLWNoaWxkKDIpID4gOm50aC1jaGlsZCgxKSA+IDpudGgtY2hpbGQoMSkgPiA6bnRoLWNoaWxkKDEpID4gOm50aC1jaGlsZCgxMSkiLCJjc3MzIjoiID5DU1M+IC5wcm9zZSA+IDpudGgtY2hpbGQoMTEpIiwiY3VycmVudCI6Im1hdGNoIiwibWF0Y2giOiI+TUFUQ0g+PHA+WW91IGZ1cnRoZXIiLCJ4cGF0aCI6IiA+WFBBVEg+IGlkKFwicmFkaXgtOnJhOlwiKS9kaXZbQGNsYXNzPVwibWluLXctMCBwLTZcIl0vZGl2WzFdL2RpdltAY2xhc3M9XCJtYXgtaC1bY2FsYygxMDBkdmgtNTAwcHgpXSBvdmVyZmxvdy15LWF1dG8gcm91bmRlZC1sZyBib3JkZXIgcC00IHNtOm1heC1oLVtjYWxjKDEwMGR2aC00MDBweCldXCJdL2RpdltAY2xhc3M9XCJwcm9zZSBtYXgtdy1mdWxsXCJdL3BbMTBdIiwiYXQiOiIzMjAsIDEwMDUiLCJ3ZSI6dHJ1ZSwiZmEiOnRydWV9fQ==*/
+         /*Dat:eyJzIjoiY2xpY2tlbGVtZW50IiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJDaGVjayIsInR5cGUiOiJjaGVjayIsImRhdGEiOmZhbHNlLCJpc19kZWYiOnRydWV9XSwicCI6eyJpc19pbWFnZSI6ZmFsc2UsImNzcyI6IiA+Q1NTPiAjcmFkaXgtXFwzQSByYVxcM0EgID4gOm50aC1jaGlsZCgyKSA+IDpudGgtY2hpbGQoMSkgPiA6bnRoLWNoaWxkKDEpID4gOm50aC1jaGlsZCgxKSA+IDpudGgtY2hpbGQoMTEpIiwidmVyc2lvbiI6IjEuMCIsImNzczEiOiIgPkNTUz4gI3JhZGl4LVxcM0EgcmFcXDNBICA+IDpudGgtY2hpbGQoMikgPiA6bnRoLWNoaWxkKDEpID4gOm50aC1jaGlsZCgxKSA+IDpudGgtY2hpbGQoMSkgPiA6bnRoLWNoaWxkKDExKSIsImNzczIiOiIgPkNTUz4gOm50aC1jaGlsZCgyMCkgPiA6bnRoLWNoaWxkKDIpID4gOm50aC1jaGlsZCgxKSA+IDpudGgtY2hpbGQoMSkgPiA6bnRoLWNoaWxkKDEpID4gOm50aC1jaGlsZCgxMSkiLCJjc3MzIjoiID5DU1M+IC5wcm9zZSA+IDpudGgtY2hpbGQoMTEpIiwiY3VycmVudCI6Im1hdGNoIiwibWF0Y2giOiI+TUFUQ0g+PHA+WW91IGZ1cnRoZXI+QVQ+MSIsInhwYXRoIjoiID5YUEFUSD4gaWQoXCJyYWRpeC06cmE6XCIpL2RpdltAY2xhc3M9XCJtaW4tdy0wIHAtNlwiXS9kaXZbMV0vZGl2W0BjbGFzcz1cIm1heC1oLVtjYWxjKDEwMGR2aC01MDBweCldIG92ZXJmbG93LXktYXV0byByb3VuZGVkLWxnIGJvcmRlciBwLTQgc206bWF4LWgtW2NhbGMoMTAwZHZoLTQwMHB4KV1cIl0vZGl2W0BjbGFzcz1cInByb3NlIG1heC13LWZ1bGxcIl0vcFsxMF0iLCJhdCI6IjMyMCwgMTAwNSIsIndlIjp0cnVlLCJmYSI6dHJ1ZX19*/
          /*Browser*/
-         _SELECTOR = "\u003eMATCH\u003e\u003cp\u003eYou further";
+         _SELECTOR = "\u003eMATCH\u003e\u003cp\u003eYou further\u003eAT\u003e1";
          wait_element_visible(_SELECTOR)!
          _call(_random_point, {})!
          _if(_result().length > 0, function(){
@@ -1595,6 +1595,41 @@ section(RESOURCE_1 /*{{threads}}*/,1000000 /*1000000*/,1000000 /*1000000*/,0,fun
      <ScriptVersion>1.0.0</ScriptVersion>
      <AvailableLanguages>en,ru</AvailableLanguages>
      <EngineVersion>28.3.0</EngineVersion>
+     <SettingsWorker>EnableWidevine=true
+EnableSafeBrowsing=true
+EnableVariations=true
+EnableComponents=true
+AutostartDebug=false
+SaveBrowserLog=false
+ProfilesCaching=true
+ToolboxHeight=780
+MaxBrowserStartSimultaneously=3
+MinFreeMemoryToStartBrowser=1500
+MinUnusedCpu=35
+ScenarioWidth=936
+Zoom=100
+IsMaximized=false
+Restart=true
+UseHumanLikeMouseMoves=true
+DebugToolbox=false
+DebugScenario=false
+Languages=&quot;&quot;
+Modules=&quot;&quot;
+Helper=&quot;disable&quot;
+Canvas=&quot;enable&quot;
+CanvasNoise=&quot;&quot;
+Audio=&quot;enable&quot;
+QUIC=&quot;enable&quot;
+AudioNoise=&quot;&quot;
+MaxFPS=30
+Webrtc=&quot;enable&quot;
+WebrtcIps=&quot;&quot;
+Webgl=&quot;enable&quot;
+WebglNoise=&quot;&quot;
+WebglRenderer=&quot;&quot;
+WebglVendor=&quot;&quot;
+Detector=false
+</SettingsWorker>
      <ChromeCommandLine>--disk-cache-size=1
 --disable-gpu-program-cache
 --disable-gpu-shader-disk-cache
