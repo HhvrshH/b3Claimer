@@ -878,7 +878,7 @@ section(RESOURCE_1 /*{{threads}}*/,1000000 /*1000000*/,1000000 /*1000000*/,0,fun
       _browser_mode(("false") == "true" ? "mobile" : "desktop")!
       section_end()!
 
-      section_start("\u007b\u0022f\u0022:true\u007d", 751352404)!
+      section_start("", 751352404)!
       /*Dat:eyJzIjoiaWYiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IklmRXhwcmVzc2lvbiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiMSIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJJZkVsc2UiLCJ0eXBlIjoiY2hlY2siLCJkYXRhIjpmYWxzZSwiaXNfZGVmIjp0cnVlfV19*/
       _set_if_expression("MQ==");
       _if(1,function(){
@@ -960,12 +960,11 @@ section(RESOURCE_1 /*{{threads}}*/,1000000 /*1000000*/,1000000 /*1000000*/,0,fun
                log("Problem with proxy. Running without proxy : " + VAR_LAST_ERROR)
                section_end()!
 
-               section_start("", 604018133)!
-               /*Dat:eyJzIjoicHJveHkiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IlByb3h5VGV4dCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiUHJveHlUeXBlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJhdXRvIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiUHJveHlMb2dpbiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiUHJveHlQYXNzd29yZCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiQ2hhbmdlVGltZXpvbmUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImZhbHNlIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiQ2hhbmdlR2VvbG9jYXRpb24iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImZhbHNlIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiQ2hhbmdlV2VicnRjSXAiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InRydWUiLCJjbGFzcyI6InN0cmluZyJ9LHsiaWQiOiJDaGFuZ2VCcm93c2VyTGFuZ3VhZ2UiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImZhbHNlIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiRGV0ZWN0RXh0ZXJuYWxJcCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoidHJ1ZSIsImNsYXNzIjoic3RyaW5nIn0seyJpZCI6IlNlcnZpY2VVUkwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIn0seyJpZCI6IklwRXh0cmFjdGlvbk1ldGhvZCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoicmF3IiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiSXBFeHRyYWN0aW9uUGFyYW0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIn0seyJpZCI6IklwSW5mb01ldGhvZCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiaXAtYXBpLmNvbSIsImNsYXNzIjoic3RyaW5nIn0seyJpZCI6IklwQXBpS2V5IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyJ9LHsiaWQiOiJGdW5jdGlvbk5hbWUiLCJ0eXBlIjoidGV4dCIsImRhdGEiOiIifSx7ImlkIjoiVGFyZ2V0VXJsIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIqIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiVGFyZ2V0VGFiTnVtYmVyIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIqIiwiY2xhc3MiOiJzdHJpbmcifV19*/
-               /*Browser*/
+               section_start("", 822041928)!
+               /*Dat:eyJzIjoicHJveHkiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IlByb3h5VGV4dCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJQcm94eVR5cGUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6Imh0dHAiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IlByb3h5TG9naW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiUHJveHlQYXNzd29yZCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJDaGFuZ2VUaW1lem9uZSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoidHJ1ZSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiQ2hhbmdlR2VvbG9jYXRpb24iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImZhbHNlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJDaGFuZ2VCcm93c2VyTGFuZ3VhZ2UiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InRydWUiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkNoYW5nZVdlYnJ0Y0lwIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJyZXBsYWNlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJQdWJsaWNJUHY0IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJhdXRvIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJQdWJsaWNJUHY2IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJhdXRvIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJQcml2YXRlSVB2NCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoibG9jYWwiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IlByaXZhdGVJUHY2IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJsb2NhbCIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiRGV0ZWN0RXh0ZXJuYWxJcCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoidHJ1ZSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiU2VydmljZVVSTCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJJcEV4dHJhY3Rpb25NZXRob2QiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InJhdyIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiSXBFeHRyYWN0aW9uUGFyYW0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiRGV0ZWN0RXh0ZXJuYWxJcFY2IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJ0cnVlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJTZXJ2aWNlVVJMVjYiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiSXBFeHRyYWN0aW9uTWV0aG9kVjYiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InJhdyIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiSXBFeHRyYWN0aW9uUGFyYW1WNiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJJcEluZm9NZXRob2QiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImRhdGFiYXNlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJJcEFwaUtleSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJGdW5jdGlvbk5hbWUiLCJ0eXBlIjoidGV4dCIsImRhdGEiOiIifSx7ImlkIjoiVGFyZ2V0VXJsIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIqIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJUYXJnZXRUYWJOdW1iZXIiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IioiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX1dfQ==*/
                var hash = proxy_parse("")
-               if("auto" != "auto" ){
-               hash["IsHttp"] = "auto" == "http"
+               if("http" != "auto" ){
+               hash["IsHttp"] = "http" == "http"
                }
                var login = ""
                var password = ""
@@ -985,10 +984,12 @@ section(RESOURCE_1 /*{{threads}}*/,1000000 /*1000000*/,1000000 /*1000000*/,0,fun
                hash["Port"] = hash["Port"].toString()
                hash["DetectExternalIp"] = "true" == "true";
                hash["ChangeGeolocation"] = "false" == "true";
-               hash["ChangeWebrtcIp"] = "true" == "true";
-               hash["ChangeTimezone"] = "false" == "true";
-               hash["ChangeBrowserLanguage"] = "false" == "true";
-               hash["ip_info_method"] = "ip-api.com";
+               hash["ChangeWebrtcIp"] = "replace";
+               if(hash["ChangeWebrtcIp"] == "true"){hash["ChangeWebrtcIp"] = "replace"};
+               if(hash["ChangeWebrtcIp"] == "false"){hash["ChangeWebrtcIp"] = "ignore"}
+               hash["ChangeTimezone"] = "true" == "true";
+               hash["ChangeBrowserLanguage"] = "true" == "true";
+               hash["ip_info_method"] = "database";
                if(hash["ip_info_method"] == "custom function")
                {
                hash["ip_info_method"] = "database"
@@ -997,13 +998,21 @@ section(RESOURCE_1 /*{{threads}}*/,1000000 /*1000000*/,1000000 /*1000000*/,0,fun
                hash["ServiceURL"] = "";
                hash["IpExtractionParam"] = "";
                hash["IpExtractionMethod"] = "raw";
+               hash["PublicIPv4"] = "auto";
+               hash["PublicIPv6"] = "auto";
+               hash["PrivateIPv4"] = "local";
+               hash["PrivateIPv6"] = "local";
+               hash["DetectExternalIpV6"] = "true" == "true";
+               hash["ServiceURLV6"] = "";
+               hash["IpExtractionMethodV6"] = "raw";
+               hash["IpExtractionParamV6"] = "";
                native("filesystem", "writefile", JSON.stringify({path: _get_profile() + "/proxy.txt",value: JSON.stringify(hash),base64:false,append:false}))
                hash["Port"] = PortNumber
                }
                }
                set_proxy(hash["server"], hash["Port"], hash["IsHttp"], hash["name"], hash["password"])!
                sleep(1000)!
-               set_proxy_extended("true" == "true", "false" == "true", "true" == "true", "false" == "true", "false" == "true", "ip-api.com", "", null, "", "raw", "")!
+               set_proxy_extended("true" == "true", "false" == "true", "replace", "true" == "true", "true" == "true", "database", "", null, "", "raw", "", "auto", "auto", "local", "local", "true" == "true", "", "raw", "")!
                sleep(1000)!
                section_end()!
 
